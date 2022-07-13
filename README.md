@@ -1,6 +1,6 @@
 # one
 
-A new Flutter project.
+A Flutter project for IP Session Day-2.
 
 ## Getting Started
 
